@@ -1,0 +1,1 @@
+- Use canvas API instead of updating DOM every frame
